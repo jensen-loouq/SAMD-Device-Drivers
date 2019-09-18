@@ -1,2 +1,3 @@
-# repo-template-gnu
-A template for repos
+# SAMDx Device Drivers #
+
+Repository for hosting device drivers for ATSAMD targets.
